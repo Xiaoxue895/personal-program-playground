@@ -8,7 +8,8 @@ def main():
     # download_and_extract_data(url, './object_dataset')
 
     # image_path = './object_dataset/image (1).jpeg'
-    image_path = '/Users/xiaoxuewang/Desktop/618.jpg'
+    # image_path = '/Users/xiaoxuewang/Desktop/618.jpg'
+    image_path = '/Users/xiaoxuewang/Desktop/622.jpg'
     image = Image.open(image_path)
 
     prompt = "Detect and draw 2D bounding boxes around objects in the image"
