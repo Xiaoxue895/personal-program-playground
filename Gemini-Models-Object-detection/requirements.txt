@@ -1,0 +1,7 @@
+google-genai
+pillow
+gdown
+python-dotenv
+pydantic
+requests
+matplotlib
